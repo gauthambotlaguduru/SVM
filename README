@@ -1,0 +1,2 @@
+This is an implementation of the linear support vector machine.
+The code needs to be slightly modified to fit non-linear hyperplanes.
